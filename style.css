@@ -1,0 +1,15 @@
+.box {
+  height: 100px;
+  width: 100px;
+  display: inline-block;
+  background-color: black;
+  margin: 5px;
+}
+
+.treasure {
+  background-color: green;
+}
+
+.wrong {
+  background-color: red;
+}
